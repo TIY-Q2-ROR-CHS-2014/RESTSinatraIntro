@@ -1,0 +1,4 @@
+<% @posts.each do |post| %>
+  <%= erb(:_post, {locals: {post: post}}) %>
+  <br>
+<% end %>

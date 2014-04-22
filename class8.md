@@ -1,0 +1,12 @@
+- gitignore's
+- oh my zsh
+  - shares command history in all shells
+  - command line completion thing
+  - spell correction
+- RVM
+- gems
+- bundler
+- Gemfile
+- REST/SOAP
+  - http://en.wikipedia.org/wiki/Representational_state_transfer
+  - Simple Object Access Protocol
